@@ -1,7 +1,7 @@
 # JUSTCABS-Online Cab Rental System
 
 <p align="center">
-<img  height="150" src="https://github.com/adityakamath16/JustCabs-Online.Cab.Rental.System/blob/main/new/logo2.jpg"></img>
+<img  height="100" src="https://github.com/adityakamath16/JustCabs-Online.Cab.Rental.System/blob/main/new/logo2.jpg"></img>
 </p>
 
 ### screenshots :rocket:
@@ -10,7 +10,7 @@
 
 
 ### Tools :fire:
-|<img src="https://firebasestorage.googleapis.com/v0/b/github--images.appspot.com/o/Github%20images%2F1200px-Android_Studio_icon.svg.png?alt=media&token=c696a2c6-181d-4ef2-b235-a200306833ca" width=60> | <img src="https://firebasestorage.googleapis.com/v0/b/github--images.appspot.com/o/Github%20images%2Ffirebase.png?alt=media&token=b31bf89b-27a9-4192-9c7f-ae8eedb56554 " width=60> | 
+|<img src="https://github.com/adityakamath16/JustCabs-Online.Cab.Rental.System/blob/main/screenshots/WampServer.png" width=60> | <img src="https://github.com/adityakamath16/JustCabs-Online.Cab.Rental.System/blob/main/screenshots/brackets.png" width=60> | 
 |:---:|:---:|
 
 <center><h3><b>DOWNLOAD THE APP :</b></h3></center>
