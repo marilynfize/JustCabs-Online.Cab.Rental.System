@@ -25,7 +25,6 @@ Uses PHP MY ADMIN for all the backend storage<br>
 Admin can have full access to registration details<br>
 Password of user is protected with encryption<br>
 
-<br></br>
 ### DESCRIPTION
 <p>It can be used by all kinds of users for the best booking experience, and without having to call the booking services. The amount to be paid will be provided in advance to the users well in advance. Online Cab Booking System specializing in Hiring cabs to customers. It is an online system through which customers can view available cabs; register the cabs, view profile and book cabs.Cab booking service is a major transport service provided by the various transport operators in a particular city. Mostly peoples use cab service for their daily transportations need. The company must be aregistered and fulfils all the requirements and security standards set by the transport department.
 Online Cab Booking System is a web based platform that allows your customers to book their taxi's and executive taxis all online from the comfort of their own home or office. The platform should offer an administration interface where the taxi company can manage the content, and access all bookings and customer information. More and more Taxi companies are looking for integrated taxi booking systems as it makes life much easier for the customers.</p>
