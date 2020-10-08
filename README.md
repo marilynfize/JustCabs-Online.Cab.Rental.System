@@ -8,8 +8,8 @@
 <img src="https://github.com/adityakamath16/JustCabs-Online.Cab.Rental.System/blob/main/screenshots/4home.png" width=500> <img src="https://github.com/adityakamath16/JustCabs-Online.Cab.Rental.System/blob/main/screenshots/1login.png" width=500>
 
 ### Programming languages :rocket:
-|<img src="https://github.com/adityakamath16/JustCabs-Online.Cab.Rental.System/blob/main/screenshots/html-flat.png" width=60> | <img src="https://github.com/adityakamath16/JustCabs-Online.Cab.Rental.System/blob/main/screenshots/css.png" width=60> | 
-|:---:|:---:|
+|<img src="https://github.com/adityakamath16/JustCabs-Online.Cab.Rental.System/blob/main/screenshots/html-flat.png" width=60> | <img src="https://github.com/adityakamath16/JustCabs-Online.Cab.Rental.System/blob/main/screenshots/css.png" width=60> | <img src="https://github.com/adityakamath16/JustCabs-Online.Cab.Rental.System/blob/main/screenshots/download.png" width=60>
+|:---:|:---:|:---:|
 
 ### Tools :fire:
 |<img src="https://github.com/adityakamath16/JustCabs-Online.Cab.Rental.System/blob/main/screenshots/WampServer.png" width=60> | <img src="https://github.com/adityakamath16/JustCabs-Online.Cab.Rental.System/blob/main/screenshots/brackets.png" width=60> | 
