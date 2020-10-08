@@ -1,7 +1,7 @@
-# JustCabs-Online.Cab.Rental.System
+# JUSTCABS-Online Cab Rental System
 
 <p align="center">
-<img  height="200" src="https://github.com/adityakamath16/JustCabs-Online.Cab.Rental.System/blob/main/new/logo2.jpg"></img>
+<img  height="150" src="https://github.com/adityakamath16/JustCabs-Online.Cab.Rental.System/blob/main/new/logo2.jpg"></img>
 </p>
 
 ### screenshots :rocket:
