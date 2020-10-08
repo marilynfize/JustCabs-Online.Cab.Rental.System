@@ -30,5 +30,20 @@ Password of user is protected with encryption<br>
 ### DESCRIPTION
 <p>VTU in pockets is an all in one app, dedicated to providing students with materials, notes which ensures their studies online. VTU in pockets team is dedicated to adding notes from different lecturers throughout the state. The students can either choose to read or download the notes. the app provides students to choose between 7 different engineering branches as of now, and more branches will be added in the near future. Downloading notes helps the students to access notes even when they do not have an internet connection. The app is available to be downloaded for free from the play store. The users can use the app for absolutely free and all the contents inside the app are free to access.  features: Notifications:- We send regular notifications regarding academics to keep you updated always. Notes:- get access to notes of all branches and semesters. News:- latest news related to the VTU will be sent directly to the app Placement materials:- Users can now prepare for their job interviews, with the materials that we provide. results:- check all the results instantly. CGPA calculator:-calculate CGPA and SGPA of your results.  Permissions:- VTU in pockets needs only storage permission to download and store notes.   The app is designed to be compatible with all devices and to keep your experience better. Many features will be added in the future to help you with your studies. ARGS INFOTECH owns all the rights to this app and is provided for free. It is intended to be used as-is. You can check our privacy policy for more details.</p>
 <p align="center">
-<img  src="https://firebasestorage.googleapis.com/v0/b/github--images.appspot.com/o/VTU%20IN%20POCKETS%2Ffinal%20image.jpg?alt=media&token=43de6b12-4c9f-40d2-83d4-6107f24996e5"></img>
-</p>
+
+ License
+ -------
+ 
+     Copyright 2020 adityakamath16
+ 
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+ 
+        http://www.apache.org/licenses/LICENSE-2.0
+ 
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
