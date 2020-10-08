@@ -8,10 +8,15 @@
 |<img src="https://firebasestorage.googleapis.com/v0/b/github--images.appspot.com/o/VTU%20IN%20POCKETS%2FMAIN%201080.jpg?alt=media&token=f9b19b74-68ce-432a-8b15-e3077ef49b08" width=175> | <img src="https://firebasestorage.googleapis.com/v0/b/github--images.appspot.com/o/VTU%20IN%20POCKETS%2FDESIGN%201080P.jpg?alt=media&token=1ac616eb-ba35-4c81-a063-3d29f6765499" width=175>|  <img src="https://firebasestorage.googleapis.com/v0/b/github--images.appspot.com/o/VTU%20IN%20POCKETS%2FLOGIN%201080P.jpg?alt=media&token=41f1cf69-57c1-4731-9371-1b9fa7a9005b" width=175> | <img src="https://firebasestorage.googleapis.com/v0/b/github--images.appspot.com/o/VTU%20IN%20POCKETS%2FMAKE%20IN%20INDIA%201080.jpg?alt=media&token=620c76c8-aa0c-4034-a4fd-2f2176fa32a6" width=175> |<img src="https://firebasestorage.googleapis.com/v0/b/github--images.appspot.com/o/VTU%20IN%20POCKETS%2FVTU%20NEWS%201080.jpg?alt=media&token=f615e97a-70cd-4516-8886-79cefe087903" width=175> |<img src="https://firebasestorage.googleapis.com/v0/b/github--images.appspot.com/o/VTU%20IN%20POCKETS%2FPDF%20VIEWER%201080.jpg?alt=media&token=ec24cb4c-021d-49c2-a54e-c04d0469b9a5" width=175>|<img src="https://firebasestorage.googleapis.com/v0/b/github--images.appspot.com/o/VTU%20IN%20POCKETS%2FPLACEMENT%201080.jpg?alt=media&token=b6b7f1a5-6bea-40a9-9f61-3af0c26ba95d" width=175>|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 
+### Programming languages :rocket:
+|<img src="https://github.com/adityakamath16/JustCabs-Online.Cab.Rental.System/blob/main/screenshots/html-flat.png" width=60> | <img src="https://github.com/adityakamath16/JustCabs-Online.Cab.Rental.System/blob/main/screenshots/css.png" width=60> | 
+|:---:|:---:|
 
 ### Tools :fire:
 |<img src="https://github.com/adityakamath16/JustCabs-Online.Cab.Rental.System/blob/main/screenshots/WampServer.png" width=60> | <img src="https://github.com/adityakamath16/JustCabs-Online.Cab.Rental.System/blob/main/screenshots/brackets.png" width=60> | 
 |:---:|:---:|
+
+
 
 <center><h3><b>DOWNLOAD THE APP :</b></h3></center>
 
