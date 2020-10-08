@@ -1,7 +1,7 @@
 # JustCabs-Online.Cab.Rental.System
 
 <p align="center">
-<img  height="200" src="https://firebasestorage.googleapis.com/v0/b/github--images.appspot.com/o/VTU%20IN%20POCKETS%2Fvtu%20in%20pockets.jpg?alt=media&token=9c2d6be0-7986-4b67-b688-69960dce719d"></img>
+<img  height="200" src="https://github.com/adityakamath16/JustCabs-Online.Cab.Rental.System/blob/main/new/logo2.jpg"></img>
 </p>
 
 ### screenshots :rocket:
