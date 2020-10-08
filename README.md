@@ -17,22 +17,14 @@
 |:---:|:---:|
 
 
-
-<center><h3><b>DOWNLOAD THE APP :</b></h3></center>
-
-
-<a href="https://play.google.com/store/apps/details?id=com.my.Vtuinpockets" id="bottle" onclick="document.location=this.id+'.html';return false;" >
-    <img width="200" src="https://firebasestorage.googleapis.com/v0/b/github--images.appspot.com/o/en_badge_web_generic.png?alt=media&token=9d93e00e-1ccf-4758-8d9f-c4ffc9c3fa73" />
-</a>
-
-<p><h3>Features Used: </h3></p>
-Login/signup feature<br>
-Choose by different branches<br>
-Uses Firebase cloud notification for sending notifications<br>
-Uses Firebase Realtime Database for loading different branches hence keeping users upto date<br>
-Used bartecsk Android pdf viewer to load Notes directly to the users device.<br>
-Notes are loaded using webview and Firebase hosting.<br>
-News loads Directly from Firebase Realtime Database.<br>
+<p><h3>Features available: </h3></p>
+Login/signup feature for both admin and user<br>
+Choose Destination/pickup<br>
+assign Random driver to an user<br>
+Generate bill for the user<br>
+Uses PHP MY ADMIN for all the backend storage<br>
+Admin can have full access to registration details<br>
+Password of user is protected with encryption<br>
 
 <br></br>
 ### DESCRIPTION
